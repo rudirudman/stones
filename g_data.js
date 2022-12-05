@@ -15,7 +15,7 @@ const data = [
       color: '#F9BA00',
     },
     {
-      name: 'Alber745t',
+      name: 'Albert147',
       pos: 'G8',
       percentage: 45,
       value: 2000,
@@ -43,7 +43,7 @@ const data = [
       color: '#F9BA00',
     },
     {
-      name: 'Annamarie145',
+      name: 'Anna145',
       pos: 'G1',
       percentage: 45,
       value: 2000,
